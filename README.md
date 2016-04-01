@@ -1,3 +1,3 @@
 # wordofwisdoms
-Qutations
+Quotations
 A personal project in laravel
