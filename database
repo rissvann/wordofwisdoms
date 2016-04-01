@@ -1,1 +1,40 @@
+Table Name::Quote
+ID
+MeaningId
+LanguageId
+ReferenceId
+Text
+TimeStamp
 
+Table Name::QTranslation
+QuoteId
+Text
+
+Table Name::QTranscription
+QuoteId
+Text
+
+Table Name::QReference
+ID
+YearId
+AuthorId
+Title
+PublisherId
+SourceId
+
+Table Name::QSource
+ID
+Text
+
+Table Name::QPublisher
+ID
+Text
+
+Table Name::QYear
+ID
+From
+To
+
+Table Name::QAuthor
+ID
+Name
